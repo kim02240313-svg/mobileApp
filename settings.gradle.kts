@@ -22,3 +22,6 @@ dependencyResolutionManagement {
 rootProject.name = "W202510996"
 include(":app")
 include(":w03")
+include(":w04")
+include(":app:w04")
+include(":w33")

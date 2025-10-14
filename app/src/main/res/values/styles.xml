@@ -1,3 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
 <resources>
+
+    <!-- Theme.W202510996 스타일 정의 -->
+    <style name="Theme.W202510996" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 기본 테마 설정을 여기서 수정 가능 -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+    </style>
+
 </resources>
